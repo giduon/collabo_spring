@@ -10,7 +10,7 @@ public class Element {
     private String name ;
     private int price;
     private String category ;
-    private int sotck;
+    private int stock;
     private String image ;
     private String description ;
 
@@ -22,7 +22,7 @@ public class Element {
         this.name = name;
         this.price = price;
         this.category = category;
-        this.sotck = sotck;
+        this.stock = stock;
         this.image = image;
         this.description = description;
     }
